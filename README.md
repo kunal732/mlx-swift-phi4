@@ -34,7 +34,7 @@ A sample Swift (macOS) application demonstrating how to download, load, and run 
 
 ## Requirements
 
-- **macOS 13 (Ventura)** or later
+- **macOS 14 (Sonoma)** or later
 - **Xcode 14** or later
 - An internet connection (for initial model download)
 
