@@ -1,5 +1,8 @@
 # Phi-4 macOS App with MLX Model Manager
 
+![Phi-4 Demo Screenshot](./phi4-swift-screenshot.png)  
+*Screenshot of the macOS app running alongside mactop*
+
 A sample Swift (macOS) application demonstrating how to download, load, and run Microsoft’s [Phi-4 language model](https://techcommunity.microsoft.com/blog/aiplatformblog/introducing-phi-4-microsoft%E2%80%99s-newest-small-language-model-specializing-in-comple/4357090) using the [MLX Model Manager](https://github.com/kunal732/MLX-Model-Manager). The app provides a simple SwiftUI interface for prompting Phi-4 and viewing text completions.
 
 ## Table of Contents
@@ -36,7 +39,6 @@ A sample Swift (macOS) application demonstrating how to download, load, and run 
 
 - **macOS 13 (Ventura)** or later
 - **Xcode 14** or later
-- **Swift 5.7** or later
 - An internet connection (for initial model download)
 
 ---
@@ -46,7 +48,7 @@ A sample Swift (macOS) application demonstrating how to download, load, and run 
 1. **Clone this repository** (or download the ZIP and unzip locally):
 
     ```bash
-    git clone https://github.com/YourUsername/phi4-macos-demo.git
+    git clone https://github.com/kunal732/mlx-swift-phi4
     cd phi4-macos-demo
     ```
 
