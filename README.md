@@ -21,9 +21,6 @@ A sample Swift (macOS) application demonstrating how to download, load, and run 
 
 **Phi-4** is a small language model developed by Microsoft, focusing on providing concise and domain-specific completions. By integrating **MLX Model Manager**, this app manages the download, caching, and inference process for the Phi-4 model in a streamlined manner.
 
-![Phi-4 Demo Screenshot](./phi4-swift-screenshot.png)  
-*Screenshot of the macOS app running alongside mactop*
-
 ---
 
 ## Features
